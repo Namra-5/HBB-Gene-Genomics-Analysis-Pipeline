@@ -1,0 +1,271 @@
+# This output was generated with AUGUSTUS (version 3.3.3).
+# AUGUSTUS is a gene prediction tool written by M. Stanke (mario.stanke@uni-greifswald.de),
+# O. Keller, S. KÃ¶nig, L. Gerischer, L. Romoth and Katharina Hoff.
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Initializing the parameters using config directory /data/www/augustus/augustus/config/ ...
+# human version. Using default transition matrix.
+# Looks like /data/www/augustus/webservice/data/AUG-1056132160/input.fa is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 1608, name = NC_000011.10:c5227071-5225464) -----
+#
+# Predicted genes for sequence number 1 on both strands
+# start gene g1
+NC_000011.10:c5227071-5225464	AUGUSTUS	gene	51	1474	0.93	+	.	g1
+NC_000011.10:c5227071-5225464	AUGUSTUS	transcript	51	1474	0.93	+	.	g1.t1
+NC_000011.10:c5227071-5225464	AUGUSTUS	start_codon	51	53	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	initial	51	142	0.95	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	internal	273	495	1	+	1	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	terminal	1346	1474	0.98	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	CDS	51	142	0.95	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	CDS	273	495	1	+	1	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	CDS	1346	1474	0.98	+	0	transcript_id "g1.t1"; gene_id "g1";
+NC_000011.10:c5227071-5225464	AUGUSTUS	stop_codon	1472	1474	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g1
+###
+#
+# ----- prediction on sequence number 2 (length = 1824, name = MK476281.1) -----
+#
+# Predicted genes for sequence number 2 on both strands
+# start gene g2
+MK476281.1	AUGUSTUS	gene	1	1561	0.97	+	.	g2
+MK476281.1	AUGUSTUS	transcript	138	1561	0.52	+	.	g2.t1
+MK476281.1	AUGUSTUS	start_codon	138	140	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	initial	138	229	0.52	+	0	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	terminal	1433	1561	1	+	0	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	CDS	138	229	0.52	+	0	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	CDS	1433	1561	1	+	0	transcript_id "g2.t1"; gene_id "g2";
+MK476281.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+MK476281.1	AUGUSTUS	transcript	1	1561	0.45	+	.	g2.t2
+MK476281.1	AUGUSTUS	internal	120	229	0.45	+	0	transcript_id "g2.t2"; gene_id "g2";
+MK476281.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g2.t2"; gene_id "g2";
+MK476281.1	AUGUSTUS	terminal	1433	1561	1	+	0	transcript_id "g2.t2"; gene_id "g2";
+MK476281.1	AUGUSTUS	CDS	120	229	0.45	+	0	transcript_id "g2.t2"; gene_id "g2";
+MK476281.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g2.t2"; gene_id "g2";
+MK476281.1	AUGUSTUS	CDS	1433	1561	1	+	0	transcript_id "g2.t2"; gene_id "g2";
+MK476281.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g2.t2"; gene_id "g2";
+# coding sequence = [caacctcaaacagacaccatggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacg
+# tggatgaagttggtggtgaggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgat
+# gctgttatgggcaaccctaaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctt
+# tgccacactgagtgagctgcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcact
+# ttggcaaagaattcaccccaccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [QPQTDTMVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
+# SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g2
+###
+#
+# ----- prediction on sequence number 3 (length = 1824, name = MK475906.1) -----
+#
+# Predicted genes for sequence number 3 on both strands
+# start gene g3
+MK475906.1	AUGUSTUS	gene	1	1561	0.96	+	.	g3
+MK475906.1	AUGUSTUS	transcript	138	1561	0.5	+	.	g3.t1
+MK475906.1	AUGUSTUS	start_codon	138	140	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	initial	138	229	0.51	+	0	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	terminal	1433	1561	0.99	+	0	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	CDS	138	229	0.51	+	0	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	CDS	1433	1561	0.99	+	0	transcript_id "g3.t1"; gene_id "g3";
+MK475906.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+MK475906.1	AUGUSTUS	transcript	1	1561	0.46	+	.	g3.t2
+MK475906.1	AUGUSTUS	internal	120	229	0.46	+	0	transcript_id "g3.t2"; gene_id "g3";
+MK475906.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g3.t2"; gene_id "g3";
+MK475906.1	AUGUSTUS	terminal	1433	1561	0.99	+	0	transcript_id "g3.t2"; gene_id "g3";
+MK475906.1	AUGUSTUS	CDS	120	229	0.46	+	0	transcript_id "g3.t2"; gene_id "g3";
+MK475906.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g3.t2"; gene_id "g3";
+MK475906.1	AUGUSTUS	CDS	1433	1561	0.99	+	0	transcript_id "g3.t2"; gene_id "g3";
+MK475906.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g3.t2"; gene_id "g3";
+# coding sequence = [caacctcaaacagacaccatggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacg
+# tggatgaagttggtggtgaggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgat
+# gctgttatgggcaaccctaaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctt
+# tgccacactgagtgagctgcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcact
+# ttggcaaagaattcaccccaccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [QPQTDTMVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
+# SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g3
+###
+#
+# ----- prediction on sequence number 4 (length = 1824, name = MK476491.1) -----
+#
+# Predicted genes for sequence number 4 on both strands
+# start gene g4
+MK476491.1	AUGUSTUS	gene	1	1561	0.98	+	.	g4
+MK476491.1	AUGUSTUS	transcript	138	1561	0.57	+	.	g4.t1
+MK476491.1	AUGUSTUS	start_codon	138	140	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	initial	138	229	0.57	+	0	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	terminal	1433	1561	1	+	0	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	CDS	138	229	0.57	+	0	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	CDS	1433	1561	1	+	0	transcript_id "g4.t1"; gene_id "g4";
+MK476491.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+MK476491.1	AUGUSTUS	transcript	1	1561	0.41	+	.	g4.t2
+MK476491.1	AUGUSTUS	internal	120	229	0.41	+	0	transcript_id "g4.t2"; gene_id "g4";
+MK476491.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g4.t2"; gene_id "g4";
+MK476491.1	AUGUSTUS	terminal	1433	1561	1	+	0	transcript_id "g4.t2"; gene_id "g4";
+MK476491.1	AUGUSTUS	CDS	120	229	0.41	+	0	transcript_id "g4.t2"; gene_id "g4";
+MK476491.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g4.t2"; gene_id "g4";
+MK476491.1	AUGUSTUS	CDS	1433	1561	1	+	0	transcript_id "g4.t2"; gene_id "g4";
+MK476491.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g4.t2"; gene_id "g4";
+# coding sequence = [caacctcaaacagacaccatggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacg
+# tggatgaagttggtggtgaggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgat
+# gctgttatgggcaaccctaaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctt
+# tgccacactgagtgagctgcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcact
+# ttggcaaagaattcaccccaccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [QPQTDTMVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
+# SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g4
+###
+#
+# ----- prediction on sequence number 5 (length = 1824, name = MK476080.1) -----
+#
+# Predicted genes for sequence number 5 on both strands
+# start gene g5
+MK476080.1	AUGUSTUS	gene	1	1561	0.92	+	.	g5
+MK476080.1	AUGUSTUS	transcript	138	1561	0.55	+	.	g5.t1
+MK476080.1	AUGUSTUS	start_codon	138	140	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	initial	138	229	0.55	+	0	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	terminal	1433	1561	0.96	+	0	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	CDS	138	229	0.55	+	0	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	CDS	1433	1561	0.96	+	0	transcript_id "g5.t1"; gene_id "g5";
+MK476080.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+MK476080.1	AUGUSTUS	transcript	1	1561	0.37	+	.	g5.t2
+MK476080.1	AUGUSTUS	internal	120	229	0.41	+	0	transcript_id "g5.t2"; gene_id "g5";
+MK476080.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g5.t2"; gene_id "g5";
+MK476080.1	AUGUSTUS	terminal	1433	1561	0.96	+	0	transcript_id "g5.t2"; gene_id "g5";
+MK476080.1	AUGUSTUS	CDS	120	229	0.41	+	0	transcript_id "g5.t2"; gene_id "g5";
+MK476080.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g5.t2"; gene_id "g5";
+MK476080.1	AUGUSTUS	CDS	1433	1561	0.96	+	0	transcript_id "g5.t2"; gene_id "g5";
+MK476080.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g5.t2"; gene_id "g5";
+# coding sequence = [caacctcaaacagacaccatggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacg
+# tggatgaagttggtggtgaggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgat
+# gctgttatgggcaaccctaaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctt
+# tgccacactgagtgagctgcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcact
+# ttggcaaagaattcaccccaccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [QPQTDTMVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
+# SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g5
+###
+#
+# ----- prediction on sequence number 6 (length = 1824, name = MK476374.1) -----
+#
+# Predicted genes for sequence number 6 on both strands
+# start gene g6
+MK476374.1	AUGUSTUS	gene	1	1561	0.97	+	.	g6
+MK476374.1	AUGUSTUS	transcript	138	1561	0.51	+	.	g6.t1
+MK476374.1	AUGUSTUS	start_codon	138	140	.	+	0	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	initial	138	229	0.52	+	0	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	terminal	1433	1561	0.99	+	0	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	CDS	138	229	0.52	+	0	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	CDS	1433	1561	0.99	+	0	transcript_id "g6.t1"; gene_id "g6";
+MK476374.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g6.t1"; gene_id "g6";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+MK476374.1	AUGUSTUS	transcript	1	1561	0.46	+	.	g6.t2
+MK476374.1	AUGUSTUS	internal	120	229	0.46	+	0	transcript_id "g6.t2"; gene_id "g6";
+MK476374.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g6.t2"; gene_id "g6";
+MK476374.1	AUGUSTUS	terminal	1433	1561	0.99	+	0	transcript_id "g6.t2"; gene_id "g6";
+MK476374.1	AUGUSTUS	CDS	120	229	0.46	+	0	transcript_id "g6.t2"; gene_id "g6";
+MK476374.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g6.t2"; gene_id "g6";
+MK476374.1	AUGUSTUS	CDS	1433	1561	0.99	+	0	transcript_id "g6.t2"; gene_id "g6";
+MK476374.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g6.t2"; gene_id "g6";
+# coding sequence = [caacctcaaacagacaccatggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacg
+# tggatgaagttggtggtgaggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgat
+# gctgttatgggcaaccctaaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctt
+# tgccacactgagtgagctgcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcact
+# ttggcaaagaattcaccccaccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [QPQTDTMVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
+# SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g6
+###
+#
+# ----- prediction on sequence number 7 (length = 1824, name = MK476446.1) -----
+#
+# Predicted genes for sequence number 7 on both strands
+# start gene g7
+MK476446.1	AUGUSTUS	gene	1	1561	0.98	+	.	g7
+MK476446.1	AUGUSTUS	transcript	138	1561	0.56	+	.	g7.t1
+MK476446.1	AUGUSTUS	start_codon	138	140	.	+	0	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	initial	138	229	0.56	+	0	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	terminal	1433	1561	0.99	+	0	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	CDS	138	229	0.56	+	0	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	CDS	1433	1561	0.99	+	0	transcript_id "g7.t1"; gene_id "g7";
+MK476446.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g7.t1"; gene_id "g7";
+# coding sequence = [atggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacgtggatgaagttggtggtg
+# aggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgatgctgttatgggcaaccct
+# aaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctttgccacactgagtgagct
+# gcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcactttggcaaagaattcaccc
+# caccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAH
+# LDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+MK476446.1	AUGUSTUS	transcript	1	1561	0.42	+	.	g7.t2
+MK476446.1	AUGUSTUS	internal	120	229	0.43	+	0	transcript_id "g7.t2"; gene_id "g7";
+MK476446.1	AUGUSTUS	internal	360	582	1	+	1	transcript_id "g7.t2"; gene_id "g7";
+MK476446.1	AUGUSTUS	terminal	1433	1561	0.99	+	0	transcript_id "g7.t2"; gene_id "g7";
+MK476446.1	AUGUSTUS	CDS	120	229	0.43	+	0	transcript_id "g7.t2"; gene_id "g7";
+MK476446.1	AUGUSTUS	CDS	360	582	1	+	1	transcript_id "g7.t2"; gene_id "g7";
+MK476446.1	AUGUSTUS	CDS	1433	1561	0.99	+	0	transcript_id "g7.t2"; gene_id "g7";
+MK476446.1	AUGUSTUS	stop_codon	1559	1561	.	+	0	transcript_id "g7.t2"; gene_id "g7";
+# coding sequence = [caacctcaaacagacaccatggtgcatctgactcctgaggagaagtctgccgttactgccctgtggggcaaggtgaacg
+# tggatgaagttggtggtgaggccctgggcaggctgctggtggtctacccttggacccagaggttctttgagtcctttggggatctgtccactcctgat
+# gctgttatgggcaaccctaaggtgaaggctcatggcaagaaagtgctcggtgcctttagtgatggcctggctcacctggacaacctcaagggcacctt
+# tgccacactgagtgagctgcactgtgacaagctgcacgtggatcctgagaacttcaggctcctgggcaacgtgctggtctgtgtgctggcccatcact
+# ttggcaaagaattcaccccaccagtgcaggctgcctatcagaaagtggtggctggtgtggctaatgccctggcccacaagtatcactaa]
+# protein sequence = [QPQTDTMVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFESFGDLSTPDAVMGNPKVKAHGKKVLGAF
+# SDGLAHLDNLKGTFATLSELHCDKLHVDPENFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH]
+# end gene g7
+###
+# command line:
+# /data/www/augustus/augustus/bin/augustus --species=human --strand=both --singlestrand=false --genemodel=partial --codingseq=on --sample=100 --keep_viterbi=true --alternatives-from-sampling=true --minexonintronprob=0.2 --minmeanexonintronprob=0.5 --maxtracks=2 /data/www/augustus/webservice/data/AUG-1056132160/input.fa --exonnames=on

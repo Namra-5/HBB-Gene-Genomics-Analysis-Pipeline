@@ -1,0 +1,17 @@
+   SW   perc perc perc  query       position in query    matching repeat          position in repeat
+score   div. del. ins.  sequence    begin end   (left)   repeat   class/family  begin  end    (left)  ID
+
+   22   29.6  0.0  1.3  MK475906.1    726   761 (1063) + (TTTTC)n Simple_repeat      1     72    (0)   1  
+   14   12.5  5.4  2.6  MK475906.1    762   798 (1026) + (TTTC)n  Simple_repeat      1     38    (0)   2  
+   22   29.6  0.0  1.3  MK476080.1    726   761 (1063) + (TTTTC)n Simple_repeat      1     72    (0)   3  
+   14   12.5  5.4  2.6  MK476080.1    762   798 (1026) + (TTTC)n  Simple_repeat      1     38    (0)   4  
+   22   29.6  0.0  1.3  MK476281.1    726   761 (1063) + (TTTTC)n Simple_repeat      1     72    (0)   5  
+   14   12.5  5.4  2.6  MK476281.1    762   798 (1026) + (TTTC)n  Simple_repeat      1     38    (0)   6  
+   22   29.6  0.0  1.3  MK476374.1    726   761 (1063) + (TTTTC)n Simple_repeat      1     72    (0)   7  
+   14   12.5  5.4  2.6  MK476374.1    762   798 (1026) + (TTTC)n  Simple_repeat      1     38    (0)   8  
+   22   29.6  0.0  1.3  MK476446.1    726   761 (1063) + (TTTTC)n Simple_repeat      1     72    (0)   9  
+   14   12.5  5.4  2.6  MK476446.1    762   798 (1026) + (TTTC)n  Simple_repeat      1     38    (0)  10  
+   22   29.6  0.0  1.3  MK476491.1    726   761 (1063) + (TTTTC)n Simple_repeat      1     72    (0)  11  
+   14   12.5  5.4  2.6  MK476491.1    762   798 (1026) + (TTTC)n  Simple_repeat      1     38    (0)  12  
+   22   29.6  0.0  1.3  NC_000011.10:c5227071-5225464    639   674  (934) + (TTTTC)n Simple_repeat      1     72    (0)  13  
+   14   12.5  5.4  2.6  NC_000011.10:c5227071-5225464    675   711  (897) + (TTTC)n  Simple_repeat      1     38    (0)  14  

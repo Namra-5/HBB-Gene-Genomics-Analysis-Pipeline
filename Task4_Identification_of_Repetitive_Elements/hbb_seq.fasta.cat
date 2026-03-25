@@ -1,0 +1,176 @@
+## RepeatMasker version 4.2.3 , default mode
+## run with rmblastn version 2.14.1+
+## RM Library: 
+## Total Sequences: 7
+## Total Length: 12552
+## Total NonMask ( excluding >20bp runs of N/X bases ): 12552
+## Total NonSub ( excluding all non ACGT bases ):12552
+## RAW Annotations:
+22 29.59 0.00 1.33 MK475906.1 726 801 (1023) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i12
+
+  MK475906.1           726 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 775
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  MK475906.1           776 TTCTTGCTTTCTTTTTTTTTCTTCTC 801
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 MK475906.1 762 798 (1026) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i13
+
+  MK475906.1           762 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 798
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+22 29.59 0.00 1.33 MK476080.1 726 801 (1023) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i10
+
+  MK476080.1           726 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 775
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  MK476080.1           776 TTCTTGCTTTCTTTTTTTTTCTTCTC 801
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 MK476080.1 762 798 (1026) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i11
+
+  MK476080.1           762 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 798
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+22 29.59 0.00 1.33 MK476281.1 726 801 (1023) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i8
+
+  MK476281.1           726 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 775
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  MK476281.1           776 TTCTTGCTTTCTTTTTTTTTCTTCTC 801
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 MK476281.1 762 798 (1026) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i9
+
+  MK476281.1           762 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 798
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+22 29.59 0.00 1.33 MK476374.1 726 801 (1023) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i6
+
+  MK476374.1           726 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 775
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  MK476374.1           776 TTCTTGCTTTCTTTTTTTTTCTTCTC 801
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 MK476374.1 762 798 (1026) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i7
+
+  MK476374.1           762 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 798
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+22 29.59 0.00 1.33 MK476446.1 726 801 (1023) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i4
+
+  MK476446.1           726 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 775
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  MK476446.1           776 TTCTTGCTTTCTTTTTTTTTCTTCTC 801
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 MK476446.1 762 798 (1026) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i5
+
+  MK476446.1           762 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 798
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+22 29.59 0.00 1.33 MK476491.1 726 801 (1023) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i2
+
+  MK476491.1           726 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 775
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  MK476491.1           776 TTCTTGCTTTCTTTTTTTTTCTTCTC 801
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 MK476491.1 762 798 (1026) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i3
+
+  MK476491.1           762 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 798
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+22 29.59 0.00 1.33 NC_000011.10:c5227071-5225464 639 714 (894) (TTTTC)n#Simple_repeat 1 75 (0) m_b1s252i0
+
+  NC_000011.10:        639 TTTTAGTTTCTTTTATTTGCTGTTCATAACAATTGTTTTCTTTTGTTTAA 688
+                               vv        v   v  v   v vv vv  v         v   vv
+  (TTTTC)n#Simp          1 TTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTCTTTTC 50
+
+  NC_000011.10:        689 TTCTTGCTTTCTTTTTTTTTCTTCTC 714
+                             -  vi        i       i  
+  (TTTTC)n#Simp         51 TT-TTCTTTTCTTTTCTTTTCTTTTC 75
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (3/15)
+Gap_init rate = 0.01 (1 / 75), avg. gap size = 1.00 (1 / 1)
+
+14 12.50 5.41 2.63 NC_000011.10:c5227071-5225464 675 711 (897) (TTTC)n#Simple_repeat 1 38 (0) m_b1s252i1
+
+  NC_000011.10:        675 TTTCTTTTGTTTAATTCTTGCTTTCTTT-TTT-TTTCTT 711
+                               -   v   vv     v        -   -      
+  (TTTC)n#Simpl          1 TTTC-TTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTT 38
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+

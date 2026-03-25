@@ -1,0 +1,22 @@
+##gff-version 3
+##sequence-region MK475906.1 1 1824
+MK475906.1	RepeatMasker	dispersed_repeat	726	761	29.6	+	.	ID=1;Target "Motif:(TTTTC)n" 1 72
+MK475906.1	RepeatMasker	dispersed_repeat	762	798	12.5	+	.	ID=2;Target "Motif:(TTTC)n" 1 38
+##sequence-region MK476080.1 1 1824
+MK476080.1	RepeatMasker	dispersed_repeat	726	761	29.6	+	.	ID=3;Target "Motif:(TTTTC)n" 1 72
+MK476080.1	RepeatMasker	dispersed_repeat	762	798	12.5	+	.	ID=4;Target "Motif:(TTTC)n" 1 38
+##sequence-region MK476281.1 1 1824
+MK476281.1	RepeatMasker	dispersed_repeat	726	761	29.6	+	.	ID=5;Target "Motif:(TTTTC)n" 1 72
+MK476281.1	RepeatMasker	dispersed_repeat	762	798	12.5	+	.	ID=6;Target "Motif:(TTTC)n" 1 38
+##sequence-region MK476374.1 1 1824
+MK476374.1	RepeatMasker	dispersed_repeat	726	761	29.6	+	.	ID=7;Target "Motif:(TTTTC)n" 1 72
+MK476374.1	RepeatMasker	dispersed_repeat	762	798	12.5	+	.	ID=8;Target "Motif:(TTTC)n" 1 38
+##sequence-region MK476446.1 1 1824
+MK476446.1	RepeatMasker	dispersed_repeat	726	761	29.6	+	.	ID=9;Target "Motif:(TTTTC)n" 1 72
+MK476446.1	RepeatMasker	dispersed_repeat	762	798	12.5	+	.	ID=10;Target "Motif:(TTTC)n" 1 38
+##sequence-region MK476491.1 1 1824
+MK476491.1	RepeatMasker	dispersed_repeat	726	761	29.6	+	.	ID=11;Target "Motif:(TTTTC)n" 1 72
+MK476491.1	RepeatMasker	dispersed_repeat	762	798	12.5	+	.	ID=12;Target "Motif:(TTTC)n" 1 38
+##sequence-region NC_000011.10:c5227071-5225464 1 1608
+NC_000011.10:c5227071-5225464	RepeatMasker	dispersed_repeat	639	674	29.6	+	.	ID=13;Target "Motif:(TTTTC)n" 1 72
+NC_000011.10:c5227071-5225464	RepeatMasker	dispersed_repeat	675	711	12.5	+	.	ID=14;Target "Motif:(TTTC)n" 1 38
