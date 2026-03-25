@@ -228,25 +228,25 @@ Run all scripts from the repository root directory.
 
 ```bash
 # Sequence length and GC content statistics for all 7 sequences
-python scripts/01_fasta_stats.py
+python Task7_Comparative Sequence Analysis and Pipeline Reproducibility/01_fasta_stats.py
 
 # Sliding window GC content across the reference with exon/repeat annotations
-python scripts/02_gc_content_analysis.py
+python Task7_Comparative Sequence Analysis and Pipeline Reproducibility/02_gc_content_analysis.py
 
 # RepeatMasker results summary and position visualization
-python scripts/03_repeat_visualizer.py
+python Task7_Comparative Sequence Analysis and Pipeline Reproducibility/03_repeat_visualizer.py
 
 # VCF file metadata and pipeline step report
-python scripts/04_vcf_parser.py
+python Task7_Comparative Sequence Analysis and Pipeline Reproducibility/04_vcf_parser.py
 
 # AUGUSTUS GFF3 gene structure summary and protein comparison
-python scripts/05_augustus_parser.py
+python Task7_Comparative Sequence Analysis and Pipeline Reproducibility/05_augustus_parser.py
 
 # Full end-to-end pipeline results report (all tasks)
-python scripts/06_pipeline_summary.py
+python Task7_Comparative Sequence Analysis and Pipeline Reproducibility/06_pipeline_summary.py
 ```
 
-Figures are saved automatically to the `figures/` directory.
+Figures are saved automatically to the `Task7_Comparative Sequence Analysis and Pipeline Reproducibility/figures/` directory.
 
 ### Loading the IGV Session
 
