@@ -84,7 +84,7 @@ HBB-Genomics-Pipeline/
 |-- README.md
 |
 |-- Task1_GenomicData 
-|   |-- Task1_hbb_seq.fasta                      All 7 HBB sequences (FASTA format)
+|   `-- Task1_hbb_seq.fasta                      All 7 HBB sequences (FASTA format)
 |
 |-- Task2_Genome_and_Annotation_Visualization/
 |   |-- Task2_hbb.bam                        Coordinate-sorted BAM file
@@ -93,9 +93,8 @@ HBB-Genomics-Pipeline/
 |
 |-- Task3_Sequence_Alignment_and_Similarity/
 |   |-- Task3_ClustalW.clustal               ClustalW 2.1 MSA output (Galaxy)
-|   `-- Task3_Muscle.aln-clustalw            MUSCLE 3.8 MSA output (EMBL-EBI)
-|
-|   [Note: NCBI BLAST pairwise results were web-based; screenshots are in the
+|   |-- Task3_Muscle.aln-clustalw            MUSCLE 3.8 MSA output (EMBL-EBI)
+|   `-- [Note: NCBI BLAST pairwise results were web-based; screenshots are in the
 |    project report. All 6 runs: Score=2970, Cover=100%, Identity=100%,
 |    E-value=0.0, Gaps=0/1608]
 |
@@ -111,7 +110,7 @@ HBB-Genomics-Pipeline/
 |   |-- Task5-FreeBayes_variants.vcf         Raw FreeBayes VCF
 |   |-- Task5-VCFfilter.vcf                  Filtered VCF (QUAL>=20, DP>=10)
 |   |-- Task5-SnpEff_CSV stats.txt           SnpEff CSV statistics
-|   |-- Task5_Map_with_BWA-MEM               Mapped reads in BAM format
+|   |-- Task5_Map_with_BWA-MEM.bam           Mapped reads in BAM format
 |   `-- Task5_SnpEff_HTML_stats/
 |       |-- SnpEff_HTML_stats.html           SnpEff HTML report
 |       `-- snpeff_stats.genes.txt           Per-gene statistics
@@ -119,24 +118,22 @@ HBB-Genomics-Pipeline/
 |-- Task6_Gene_Prediction_and_Orthology_Inference/
 |   |-- Augustus_Output.gff                  GFF3 gene predictions (all 7 seqs)
 |   |-- Augustus_Predicted_Aminoacidseq.fa   Predicted protein sequences (FASTA)
-|   `-- AugustusPredicted_codingseq.fa       Predicted coding sequences (FASTA)
-|
-|   [Note: REvolutionH-tl was run locally on a four-species bacterial dataset.
+|   |-- AugustusPredicted_codingseq.fa       Predicted coding sequences (FASTA)
+|   `-- [Note: REvolutionH-tl was run locally on a four-species bacterial dataset.
 |    Output files were generated but are not included here due to size.
 |    Full interpretation and screenshots are in the project report.]
 |
-|-- scripts/
-|   |-- 01_fasta_stats.py                    Sequence length and GC content table
-|   |-- 02_gc_content_analysis.py            Sliding window GC content analysis
-|   |-- 03_repeat_visualizer.py              RepeatMasker results parser and plot
-|   |-- 04_vcf_parser.py                     VCF metadata and pipeline summary
-|   |-- 05_augustus_parser.py                AUGUSTUS GFF3 parser and protein check
-|   `-- 06_pipeline_summary.py               End-to-end pipeline results report
-|
-`-- figures/                                 Auto-generated figures (see scripts)
-    |-- sequence_statistics.png
-    |-- gc_content_sliding_window.png
-    `-- repeat_distribution.png
+`-- Task7_Comparative Sequence Analysis and Pipeline Reproducibility/
+    |-- 01_fasta_stats.py                    Sequence length and GC content table
+    |-- 02_gc_content_analysis.py            Sliding window GC content analysis
+    |-- 03_repeat_visualizer.py              RepeatMasker results parser and plot
+    |-- 04_vcf_parser.py                     VCF metadata and pipeline summary
+    |-- 05_augustus_parser.py                AUGUSTUS GFF3 parser and protein check
+    |-- 06_pipeline_summary.py               End-to-end pipeline results report
+    `-- figures/                                 Auto-generated figures (see scripts)
+        |-- sequence_statistics.png
+        |-- gc_content_sliding_window.png
+        `-- repeat_distribution.png
 ```
 
 ---
